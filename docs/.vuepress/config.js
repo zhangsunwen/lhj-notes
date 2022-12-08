@@ -22,8 +22,6 @@ module.exports = {
         needComments: true,
         // 其他的 Vssue 配置
         autoCreateIssue: true,
-        clientId: "fb0eba564cb24c2d5b54",
-        clientSecret: "8f557ae43d8ea259e7abdd8b3a7c43e11a02acb7",
         owner: "julien0220",
         repo: "lhj-notes",
       },
