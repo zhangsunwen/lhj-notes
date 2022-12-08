@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://cdn.staticaly.com/gh/julien0220/tu/main/img/image_20220720_132208.png
+heroImage: https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220720_132208.png
 # tagline: Vdoing博客主题模板
 # heroText: lhj-notes
 tagline: 欢迎来到我们的团队首页
